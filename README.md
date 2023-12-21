@@ -1,6 +1,6 @@
-# gyanprakash.tech
+## gyanprakash.tech
 
-It's a SEO Optimised Perosnal Portfolio and Blogging Website built with Next.Js, Typescript and TailwindCSS.
+It's an SEO SEO-optimized personal portfolio and blogging Website built with Next.Js, Typescript, and TailwindCSS.
 
 
 ### Features
@@ -23,9 +23,13 @@ It's a SEO Optimised Perosnal Portfolio and Blogging Website built with Next.Js,
 
 ### Tech Stack
 
-- **Framework:** Next.js
-- **Database:** PlanetScale
-- **Authentication:** NextAuth.js
-- **Deployment:** Vercel
-- **Styling:** Tailwind CSS + Radix
-- **Analytics:** Vercel Analytics
+- **Framework:** [Next.js]()
+- **Database:** [PlanetScale]()
+- **Authentication:** [NextAuth.js]()
+- **Deployment:** [Vercel]()
+- **Styling:** [Tailwind CSS + Radix]()
+- **Analytics:** [Vercel Analytics]()
+- **Three.js** - 3D library for JavaScript
+- **Spline + Framer Motion** - An animation library for React
+- **GitHub Actions** - CI/CD
+- **Jenkins** - CI/CD
